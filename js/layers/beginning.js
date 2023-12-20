@@ -451,7 +451,7 @@ addLayer('beg', {
         },
         63: {
             title: 'Phosphorus III',
-            description: 'Oxygen boosts Phorphorus gain',
+            description: 'Oxygen boosts Phosphorus gain',
             cost: new Decimal(50),
             currencyDisplayName: 'Phosphorus',
             currencyInternalName: 'points',
@@ -463,7 +463,7 @@ addLayer('beg', {
         },
         64: {
             title: 'Phosphorus IV',
-            description: 'Phosphor boosts Oxygen gain',
+            description: 'Phosphorus boosts Oxygen gain',
             cost: new Decimal(1000),
             currencyDisplayName: 'Phosphorus',
             currencyInternalName: 'points',
