@@ -208,8 +208,8 @@ addLayer('beg', {
             currencyLocation: () => player.beg.hydrogen,
         },
         15: {
-            title: 'Supernovae',
-            description: 'Your star goes supernovae creating new elements',
+            title: 'Supernova',
+            description: 'Your star goes supernova creating new elements',
             cost: new Decimal(1000),
             currencyDisplayName: 'Oxygen',
             currencyInternalName: 'points',
@@ -433,7 +433,7 @@ addLayer('beg', {
         },
         61: {
             title: 'Phosphorus I',
-            description: 'From the Supernovae you now gain Phosphorus. Phosphorus gives x2 to all previous gasses',
+            description: 'From the Supernova you now gain Phosphorus. Phosphorus gives x2 to all previous gasses',
             cost: new Decimal(1000),
             currencyDisplayName: 'Hydrogen',
             currencyInternalName: 'points',
