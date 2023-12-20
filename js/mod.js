@@ -23,7 +23,6 @@ let changelog = `<h1>Changelog:</h1><br><br><br>
 		- Added Nitrogen.<br>
 		- Added Oxygen.<br>
 		- Added Phosphorus.<br>
-		- Added Phosphorus.<br>
 		- Added 27 upgrades.<br>
 		- Added a layer.<br>
 		- Endgame: Phosphorus V.<br>
